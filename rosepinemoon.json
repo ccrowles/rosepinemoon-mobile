@@ -199,9 +199,6 @@
       "YELLOW_900": "#f6c177",
       "WHITE_500": "#e0def4"
    },
-   "background": {
-        "url": "https://raw.githubusercontent.com/Quinxxxx/vendetta/main/Assets/F5Zj6.png"
-   },
    "plus":{
        "version":"0",
        "customOverlays": true,
